@@ -1,13 +1,9 @@
-# It works! ;-)
+# Welcome to the Trash Panda Wiki
 
+## What is Trash Panda?
 
-## Section 1
+Trash Panda is a resource for aiding and educating citizens with responsible waste disposal. Visit [trashpanda.info](https://trashpanda.info) to find detailed disposal instructions for a growing list of cities. 
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+## What is the Trash Panda Wiki?
 
-
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+The Trash Panda Wiki serves as a repository of information related to waste management. Our goal is to provide detailed and accurate references for those looking to know more about the complexities of waste management.
